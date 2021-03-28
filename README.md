@@ -1,5 +1,5 @@
 # Arkanoid
-
+joanbier.github.io/arkanoid/
 This project presents a classic game called arkanoid. The game is about bouncing the ball and breaking the bricks and collecting points.
 
 ## Technologies
